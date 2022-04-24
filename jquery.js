@@ -63,5 +63,9 @@ $(document).ready(function () {
     // console.log("this is a slideToggle");
 
 
+    //jQuery Animations - The animate() Method
+    
+    
+
 
 });
