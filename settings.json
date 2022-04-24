@@ -1,0 +1,18 @@
+{
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": ""
+        }
+    ],
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorTheme": "Community Material Theme High Contrast",
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "diffEditor.wordWrap": "on"
+}
